@@ -1,7 +1,7 @@
 ### Hi there, I'm Aadit (Aadit Sah) 👋
 I'm a data scientist and open source developer. ✨
 
-I am also working as a Data Sciece Consultant in EY. 🚀
+I am also working as a Data Sciece Consultant at EY. 🚀
 
 I am passionate about learning and teaching topics related to data science, machine learning and AI software engineering in Python.
 
